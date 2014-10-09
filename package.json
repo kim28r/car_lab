@@ -12,6 +12,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chai": "^1.9.1"
-  }
+    "chai": "^1.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kim28r/car_lab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kim28r/car_lab/issues"
+  },
+  "homepage": "https://github.com/kim28r/car_lab"
 }
